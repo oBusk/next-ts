@@ -20,8 +20,13 @@
     },
     "homepage": "https://github.com/oBusk/next-ts#readme",
     "dependencies": {
+        "@zeit/next-typescript": "^1.1.1",
         "next": "^7.0.2",
         "react": "^16.6.0",
         "react-dom": "^16.6.0"
+    },
+    "devDependencies": {
+        "@types/react": "^16.4.18",
+        "@types/react-dom": "^16.0.9"
     }
 }
